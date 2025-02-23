@@ -3,35 +3,39 @@
   "WorkspaceRootPath": "E:\\Hoc\\Kientruc_ThietKe_PhanMem\\TH1\\ASC.Solution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4CA72B82-E5A4-426B-BE01-7493C7EC7332}|ASC.Web\\ASC.Web.csproj|E:\\Hoc\\Kientruc_ThietKe_PhanMem\\TH1\\ASC.Solution\\asc.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4CA72B82-E5A4-426B-BE01-7493C7EC7332}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4CA72B82-E5A4-426B-BE01-7493C7EC7332}|ASC.Web\\ASC.Web.csproj|e:\\hoc\\kientruc_thietke_phanmem\\th1\\asc.solution\\asc.web\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4CA72B82-E5A4-426B-BE01-7493C7EC7332}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CA72B82-E5A4-426B-BE01-7493C7EC7332}|ASC.Web\\ASC.Web.csproj|e:\\hoc\\kientruc_thietke_phanmem\\th1\\asc.solution\\asc.web\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4CA72B82-E5A4-426B-BE01-7493C7EC7332}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4CA72B82-E5A4-426B-BE01-7493C7EC7332}|ASC.Web\\ASC.Web.csproj|E:\\Hoc\\Kientruc_ThietKe_PhanMem\\TH1\\ASC.Solution\\asc.web\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4CA72B82-E5A4-426B-BE01-7493C7EC7332}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA72B82-E5A4-426B-BE01-7493C7EC7332}|ASC.Web\\ASC.Web.csproj|E:\\Hoc\\Kientruc_ThietKe_PhanMem\\TH1\\ASC.Solution\\asc.web\\views\\shared\\_securelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CA72B82-E5A4-426B-BE01-7493C7EC7332}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\views\\shared\\_securelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4CA72B82-E5A4-426B-BE01-7493C7EC7332}|ASC.Web\\ASC.Web.csproj|E:\\Hoc\\Kientruc_ThietKe_PhanMem\\TH1\\ASC.Solution\\asc.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4CA72B82-E5A4-426B-BE01-7493C7EC7332}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CA72B82-E5A4-426B-BE01-7493C7EC7332}|ASC.Web\\ASC.Web.csproj|E:\\Hoc\\Kientruc_ThietKe_PhanMem\\TH1\\ASC.Solution\\asc.web\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{4CA72B82-E5A4-426B-BE01-7493C7EC7332}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{4CA72B82-E5A4-426B-BE01-7493C7EC7332}|ASC.Web\\ASC.Web.csproj|E:\\Hoc\\Kientruc_ThietKe_PhanMem\\TH1\\ASC.Solution\\asc.web\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CA72B82-E5A4-426B-BE01-7493C7EC7332}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CA72B82-E5A4-426B-BE01-7493C7EC7332}|ASC.Web\\ASC.Web.csproj|e:\\hoc\\kientruc_thietke_phanmem\\th1\\asc.solution\\asc.web\\views\\shared\\_securelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4CA72B82-E5A4-426B-BE01-7493C7EC7332}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\views\\shared\\_securelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4CA72B82-E5A4-426B-BE01-7493C7EC7332}|ASC.Web\\ASC.Web.csproj|E:\\Hoc\\Kientruc_ThietKe_PhanMem\\TH1\\ASC.Solution\\asc.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CA72B82-E5A4-426B-BE01-7493C7EC7332}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4CA72B82-E5A4-426B-BE01-7493C7EC7332}|ASC.Web\\ASC.Web.csproj|E:\\Hoc\\Kientruc_ThietKe_PhanMem\\TH1\\ASC.Solution\\asc.web\\configuration\\applicationsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4CA72B82-E5A4-426B-BE01-7493C7EC7332}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\configuration\\applicationsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CA72B82-E5A4-426B-BE01-7493C7EC7332}|ASC.Web\\ASC.Web.csproj|e:\\hoc\\kientruc_thietke_phanmem\\th1\\asc.solution\\asc.web\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4CA72B82-E5A4-426B-BE01-7493C7EC7332}|ASC.Web\\ASC.Web.csproj|E:\\Hoc\\Kientruc_ThietKe_PhanMem\\TH1\\ASC.Solution\\asc.web\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4CA72B82-E5A4-426B-BE01-7493C7EC7332}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CA72B82-E5A4-426B-BE01-7493C7EC7332}|ASC.Web\\ASC.Web.csproj|e:\\hoc\\kientruc_thietke_phanmem\\th1\\asc.solution\\asc.web\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4CA72B82-E5A4-426B-BE01-7493C7EC7332}|ASC.Web\\ASC.Web.csproj|E:\\Hoc\\Kientruc_ThietKe_PhanMem\\TH1\\ASC.Solution\\asc.web\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4CA72B82-E5A4-426B-BE01-7493C7EC7332}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -55,7 +59,7 @@
       "RelativeMoniker": "D:0:0:{4CA72B82-E5A4-426B-BE01-7493C7EC7332}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CA72B82-E5A4-426B-BE01-7493C7EC7332}|ASC.Web\\ASC.Web.csproj|e:\\hoc\\kientruc_thietke_phanmem\\th1\\asc.solution\\asc.web\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{4CA72B82-E5A4-426B-BE01-7493C7EC7332}|ASC.Web\\ASC.Web.csproj|E:\\Hoc\\Kientruc_ThietKe_PhanMem\\TH1\\ASC.Solution\\asc.web\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4CA72B82-E5A4-426B-BE01-7493C7EC7332}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
@@ -83,7 +87,7 @@
       "RelativeMoniker": "D:0:0:{4CA72B82-E5A4-426B-BE01-7493C7EC7332}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CA72B82-E5A4-426B-BE01-7493C7EC7332}|ASC.Web\\ASC.Web.csproj|e:\\hoc\\kientruc_thietke_phanmem\\th1\\asc.solution\\asc.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4CA72B82-E5A4-426B-BE01-7493C7EC7332}|ASC.Web\\ASC.Web.csproj|E:\\Hoc\\Kientruc_ThietKe_PhanMem\\TH1\\ASC.Solution\\asc.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4CA72B82-E5A4-426B-BE01-7493C7EC7332}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -106,7 +110,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 3,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -123,45 +127,67 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Dashboard.cshtml",
-              "DocumentMoniker": "E:\\Hoc\\Kientruc_ThietKe_PhanMem\\TH1\\ASC.Solution\\ASC.Web\\Views\\Home\\Dashboard.cshtml",
-              "RelativeDocumentMoniker": "ASC.Web\\Views\\Home\\Dashboard.cshtml",
-              "ToolTip": "E:\\Hoc\\Kientruc_ThietKe_PhanMem\\TH1\\ASC.Solution\\ASC.Web\\Views\\Home\\Dashboard.cshtml",
-              "RelativeToolTip": "ASC.Web\\Views\\Home\\Dashboard.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-23T13:17:47.1Z",
-              "EditorCaption": ""
+              "Title": "site.css",
+              "DocumentMoniker": "E:\\Hoc\\Kientruc_ThietKe_PhanMem\\TH1\\ASC.Solution\\ASC.Web\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "ASC.Web\\wwwroot\\css\\site.css",
+              "ToolTip": "E:\\Hoc\\Kientruc_ThietKe_PhanMem\\TH1\\ASC.Solution\\ASC.Web\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "ASC.Web\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-23T13:54:01.994Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_SecureLayout.cshtml",
-              "DocumentMoniker": "E:\\Hoc\\Kientruc_ThietKe_PhanMem\\TH1\\ASC.Solution\\ASC.Web\\Views\\Shared\\_SecureLayout.cshtml",
-              "RelativeDocumentMoniker": "ASC.Web\\Views\\Shared\\_SecureLayout.cshtml",
-              "ToolTip": "E:\\Hoc\\Kientruc_ThietKe_PhanMem\\TH1\\ASC.Solution\\ASC.Web\\Views\\Shared\\_SecureLayout.cshtml",
-              "RelativeToolTip": "ASC.Web\\Views\\Shared\\_SecureLayout.cshtml",
-              "ViewState": "AQIAAFgAAAAAAAAAAAAAAIoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-23T13:07:47.453Z",
+              "DocumentIndex": 0,
+              "Title": "style.css",
+              "DocumentMoniker": "E:\\Hoc\\Kientruc_ThietKe_PhanMem\\TH1\\ASC.Solution\\ASC.Web\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "ASC.Web\\wwwroot\\css\\style.css",
+              "ToolTip": "E:\\Hoc\\Kientruc_ThietKe_PhanMem\\TH1\\ASC.Solution\\ASC.Web\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "ASC.Web\\wwwroot\\css\\style.css",
+              "ViewState": "AQIAADsAAAAAAAAAAAAowEoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-20T09:11:22.198Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "_SecureLayout.cshtml",
+              "DocumentMoniker": "E:\\Hoc\\Kientruc_ThietKe_PhanMem\\TH1\\ASC.Solution\\ASC.Web\\Views\\Shared\\_SecureLayout.cshtml",
+              "RelativeDocumentMoniker": "ASC.Web\\Views\\Shared\\_SecureLayout.cshtml",
+              "ToolTip": "E:\\Hoc\\Kientruc_ThietKe_PhanMem\\TH1\\ASC.Solution\\ASC.Web\\Views\\Shared\\_SecureLayout.cshtml",
+              "RelativeToolTip": "ASC.Web\\Views\\Shared\\_SecureLayout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAHIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-23T13:07:47.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "HomeController.cs",
               "DocumentMoniker": "E:\\Hoc\\Kientruc_ThietKe_PhanMem\\TH1\\ASC.Solution\\ASC.Web\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "ASC.Web\\Controllers\\HomeController.cs",
               "ToolTip": "E:\\Hoc\\Kientruc_ThietKe_PhanMem\\TH1\\ASC.Solution\\ASC.Web\\Controllers\\HomeController.cs",
               "RelativeToolTip": "ASC.Web\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAYwDMAAAABAAAA",
+              "ViewState": "AQIAACIAAAAAAAAAAAAuwCkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T07:21:16.221Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T07:21:16.221Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "E:\\Hoc\\Kientruc_ThietKe_PhanMem\\TH1\\ASC.Solution\\ASC.Web\\Views\\Home\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "ASC.Web\\Views\\Home\\Dashboard.cshtml",
+              "ToolTip": "E:\\Hoc\\Kientruc_ThietKe_PhanMem\\TH1\\ASC.Solution\\ASC.Web\\Views\\Home\\Dashboard.cshtml",
+              "RelativeToolTip": "ASC.Web\\Views\\Home\\Dashboard.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-23T13:17:47.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "ApplicationSettings.cs",
               "DocumentMoniker": "E:\\Hoc\\Kientruc_ThietKe_PhanMem\\TH1\\ASC.Solution\\ASC.Web\\Configuration\\ApplicationSettings.cs",
               "RelativeDocumentMoniker": "ASC.Web\\Configuration\\ApplicationSettings.cs",
@@ -169,25 +195,11 @@
               "RelativeToolTip": "ASC.Web\\Configuration\\ApplicationSettings.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T07:45:24.393Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T07:45:24.393Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "style.css",
-              "DocumentMoniker": "E:\\Hoc\\Kientruc_ThietKe_PhanMem\\TH1\\ASC.Solution\\ASC.Web\\wwwroot\\css\\style.css",
-              "RelativeDocumentMoniker": "ASC.Web\\wwwroot\\css\\style.css",
-              "ToolTip": "E:\\Hoc\\Kientruc_ThietKe_PhanMem\\TH1\\ASC.Solution\\ASC.Web\\wwwroot\\css\\style.css",
-              "RelativeToolTip": "ASC.Web\\wwwroot\\css\\style.css",
-              "ViewState": "AQIAAEsAAAAAAAAAAAAAAF0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-20T09:11:22.198Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "E:\\Hoc\\Kientruc_ThietKe_PhanMem\\TH1\\ASC.Solution\\ASC.Web\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "ASC.Web\\Data\\ApplicationDbContext.cs",
@@ -195,12 +207,11 @@
               "RelativeToolTip": "ASC.Web\\Data\\ApplicationDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T13:01:35.935Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T13:01:35.935Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "E:\\Hoc\\Kientruc_ThietKe_PhanMem\\TH1\\ASC.Solution\\ASC.Web\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "ASC.Web\\Views\\Home\\Index.cshtml",
@@ -208,12 +219,11 @@
               "RelativeToolTip": "ASC.Web\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAGUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-20T09:10:07.639Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T09:10:07.639Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "E:\\Hoc\\Kientruc_ThietKe_PhanMem\\TH1\\ASC.Solution\\ASC.Web\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "ASC.Web\\Models\\ErrorViewModel.cs",
@@ -221,12 +231,11 @@
               "RelativeToolTip": "ASC.Web\\Models\\ErrorViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T13:01:11.714Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T13:01:11.714Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "IEmailSender.cs",
               "DocumentMoniker": "E:\\Hoc\\Kientruc_ThietKe_PhanMem\\TH1\\ASC.Solution\\ASC.Web\\Services\\IEmailSender.cs",
               "RelativeDocumentMoniker": "ASC.Web\\Services\\IEmailSender.cs",
@@ -234,12 +243,11 @@
               "RelativeToolTip": "ASC.Web\\Services\\IEmailSender.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T08:10:16.856Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T08:10:16.856Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "ISmsSender.cs",
               "DocumentMoniker": "E:\\Hoc\\Kientruc_ThietKe_PhanMem\\TH1\\ASC.Solution\\ASC.Web\\Services\\ISmsSender.cs",
               "RelativeDocumentMoniker": "ASC.Web\\Services\\ISmsSender.cs",
@@ -247,12 +255,11 @@
               "RelativeToolTip": "ASC.Web\\Services\\ISmsSender.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T08:10:39.951Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T08:10:39.951Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "AuthMessageSender.cs",
               "DocumentMoniker": "E:\\Hoc\\Kientruc_ThietKe_PhanMem\\TH1\\ASC.Solution\\ASC.Web\\Services\\AuthMessageSender.cs",
               "RelativeDocumentMoniker": "ASC.Web\\Services\\AuthMessageSender.cs",
@@ -260,12 +267,11 @@
               "RelativeToolTip": "ASC.Web\\Services\\AuthMessageSender.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T08:09:16.589Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T08:09:16.589Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "E:\\Hoc\\Kientruc_ThietKe_PhanMem\\TH1\\ASC.Solution\\ASC.Web\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "ASC.Web\\Views\\_ViewStart.cshtml",
@@ -273,12 +279,11 @@
               "RelativeToolTip": "ASC.Web\\Views\\_ViewStart.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-20T09:28:49.439Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T09:28:49.439Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "E:\\Hoc\\Kientruc_ThietKe_PhanMem\\TH1\\ASC.Solution\\ASC.Web\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "ASC.Web\\Views\\_ViewImports.cshtml",
@@ -286,12 +291,11 @@
               "RelativeToolTip": "ASC.Web\\Views\\_ViewImports.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-20T09:28:48.558Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T09:28:48.558Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "_LoginPartial.cshtml",
               "DocumentMoniker": "E:\\Hoc\\Kientruc_ThietKe_PhanMem\\TH1\\ASC.Solution\\ASC.Web\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeDocumentMoniker": "ASC.Web\\Views\\Shared\\_LoginPartial.cshtml",
@@ -299,12 +303,11 @@
               "RelativeToolTip": "ASC.Web\\Views\\Shared\\_LoginPartial.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-23T12:59:44.499Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T12:59:44.499Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "E:\\Hoc\\Kientruc_ThietKe_PhanMem\\TH1\\ASC.Solution\\ASC.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "ASC.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -312,12 +315,11 @@
               "RelativeToolTip": "ASC.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-20T08:52:56.813Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T08:52:56.813Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Error.cshtml",
               "DocumentMoniker": "E:\\Hoc\\Kientruc_ThietKe_PhanMem\\TH1\\ASC.Solution\\ASC.Web\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "ASC.Web\\Views\\Shared\\Error.cshtml",
@@ -325,12 +327,11 @@
               "RelativeToolTip": "ASC.Web\\Views\\Shared\\Error.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-20T09:28:09.955Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T09:28:09.955Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "_MasterLayout.cshtml",
               "DocumentMoniker": "E:\\Hoc\\Kientruc_ThietKe_PhanMem\\TH1\\ASC.Solution\\ASC.Web\\Views\\Shared\\_MasterLayout.cshtml",
               "RelativeDocumentMoniker": "ASC.Web\\Views\\Shared\\_MasterLayout.cshtml",
@@ -338,12 +339,11 @@
               "RelativeToolTip": "ASC.Web\\Views\\Shared\\_MasterLayout.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-20T08:52:55.26Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T08:52:55.26Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "E:\\Hoc\\Kientruc_ThietKe_PhanMem\\TH1\\ASC.Solution\\ASC.Web\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ASC.Web\\Views\\Shared\\_Layout.cshtml",
@@ -351,12 +351,11 @@
               "RelativeToolTip": "ASC.Web\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAEcAAAAAAAAAAAAAAF0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-20T07:31:51.998Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T07:31:51.998Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "E:\\Hoc\\Kientruc_ThietKe_PhanMem\\TH1\\ASC.Solution\\ASC.Web\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "ASC.Web\\Views\\Home\\Privacy.cshtml",
@@ -364,12 +363,11 @@
               "RelativeToolTip": "ASC.Web\\Views\\Home\\Privacy.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-20T09:17:05.432Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T09:17:05.432Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "appsettings.json",
               "DocumentMoniker": "E:\\Hoc\\Kientruc_ThietKe_PhanMem\\TH1\\ASC.Solution\\ASC.Web\\appsettings.json",
               "RelativeDocumentMoniker": "ASC.Web\\appsettings.json",
@@ -377,12 +375,11 @@
               "RelativeToolTip": "ASC.Web\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-20T07:21:24.145Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T07:21:24.145Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Hoc\\Kientruc_ThietKe_PhanMem\\TH1\\ASC.Solution\\ASC.Web\\Program.cs",
               "RelativeDocumentMoniker": "ASC.Web\\Program.cs",
@@ -390,12 +387,11 @@
               "RelativeToolTip": "ASC.Web\\Program.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAwwCYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T07:27:37.231Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T07:27:37.231Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "ASC.Web",
               "DocumentMoniker": "E:\\Hoc\\Kientruc_ThietKe_PhanMem\\TH1\\ASC.Solution\\ASC.Web\\ASC.Web.csproj",
               "RelativeDocumentMoniker": "ASC.Web\\ASC.Web.csproj",
@@ -406,7 +402,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "appsettings.Production.json",
               "DocumentMoniker": "E:\\Hoc\\Kientruc_ThietKe_PhanMem\\TH1\\ASC.Solution\\ASC.Web\\appsettings.Production.json",
               "RelativeDocumentMoniker": "ASC.Web\\appsettings.Production.json",
@@ -418,7 +414,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "E:\\Hoc\\Kientruc_ThietKe_PhanMem\\TH1\\ASC.Solution\\ASC.Web\\appsettings.Development.json",
               "RelativeDocumentMoniker": "ASC.Web\\appsettings.Development.json",
